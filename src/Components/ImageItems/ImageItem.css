@@ -1,0 +1,15 @@
+.image-item-list0elements {
+  list-style-type: none;
+  margin: 8px 16px;
+}
+
+.item-images {
+  list-style-type: none;
+  height: 100px;
+  width: 100px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
